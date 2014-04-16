@@ -1,0 +1,60 @@
+
+<resources>
+
+
+	<string name="no_media_warning">Não existe mídia de armazenamento</string>
+    <string name="no_media_hint">Compartilhando a mídia de armazenamento com um PC pode torná-lo inacessível</string>
+    <string name="cancel">Cancelar</string>
+    <string name="search_backwards">Procurar para trás</string>
+    <string name="search_forwards">Procurar para frente</string>
+    <string name="search_document">Pesquisa de documentos</string>
+    <string name="picker_title_App_Ver_Dir">%1$s %2$s: %3$s</string>
+    <string name="outline_title">Índice analítico</string>
+    <string name="enter_password">Entre com a senha</string>
+    <string name="text_not_found">Texto não encontrado</string>
+    <string name="searching_">Procurando&#8230;</string>
+    <string name="toggle_links">Destacar e permitir links</string>
+    <string name="no_further_occurrences_found">Sem mais ocorrências encontradas</string>
+    <string name="select">Selecionar</string>
+    <string name="search">Procurar</string>
+    <string name="copy">Copiar</string>
+    <string name="strike_out">Cortar</string>
+    <string name="delete">Deletar</string>
+    <string name="highlight">Highlight</string>
+    <string name="underline">Sublinhar</string>
+    <string name="edit_annotations">Editar anotações</string>
+    <string name="ink">Tinta</string>
+    <string name="save">Salvar</string>
+    <string name="print">Imprimir</string>
+    <string name="dismiss">Recusar</string>
+    <string name="_up_one_level_">[Um nível acima]</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="entering_reflow_mode">Entrando no modo de refluxo</string>
+    <string name="leaving_reflow_mode">Saindo no modo de refluxo</string>
+    <string name="print_failed">Impressão falhou</string>
+    <string name="select_text">Selecione o texto</string>
+    <string name="copied_to_clipboard">Copiado para área de transferência</string>
+    <string name="no_text_selected">Texto não selecionado</string>
+    <string name="draw_annotation">Desenhe anotação</string>
+    <string name="nothing_to_save">Nada para salvar</string>
+    <string name="document_has_changes_save_them_">Documento possui mudanças. Deseja salvá-las?</string>
+    <string name="cannot_open_document">Não é possível abrir o documento</string>
+    <string name="cannot_open_document_Reason">Não é possível abrir o documento: %1$s</string>
+    <string name="cannot_open_file_Path">Não é possível abrir o arquivo: %1$s</string>
+    <string name="cannot_open_buffer">Não é possível abrir o buffer</string>
+    <string name="fill_out_text_field">Preencha campo de texto</string>
+    <string name="okay">OK</string>
+    <string name="choose_value">Escolha o valor</string>
+    <string name="not_supported">Não suportado</string>
+    <string name="copy_text_to_the_clipboard">Copiar texto para a área de transferência</string>
+    <string name="more">Mais</string>
+    <string name="accept">Aceitar</string>
+    <string name="copy_text">copiar texto</string>
+    <string name="format_currently_not_supported">Formato atualmente não é suportado</string>
+	<string name="toggle_reflow_mode">Alternar modo de refluxo</string>
+    
+	<string name="one_page_of_count">%1$d de %2$d</string>
+	<string name="two_pages_of_count">%1$d-%2$d de %3$d</string>
+
+</resources>
